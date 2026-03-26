@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ClientTwineProject",
+			"Path": "..\\Source\\ClientTwineProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ClientTwineProjectEditor",
+			"Path": "..\\Source\\ClientTwineProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

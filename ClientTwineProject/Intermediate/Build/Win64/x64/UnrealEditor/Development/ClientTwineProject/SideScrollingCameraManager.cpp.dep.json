@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\source\\clienttwineproject\\variant_sidescrolling\\sidescrollingcameramanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\x64\\clienttwineprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\clienttwineproject\\definitions.clienttwineproject.h",
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\source\\clienttwineproject\\variant_sidescrolling\\sidescrollingcameramanager.h",
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\unrealeditor\\inc\\clienttwineproject\\uht\\sidescrollingcameramanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

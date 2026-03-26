@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\source\\clienttwineproject\\variant_platforming\\platforminggamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\x64\\clienttwineprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\clienttwineproject\\definitions.clienttwineproject.h",
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\source\\clienttwineproject\\variant_platforming\\platforminggamemode.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\17038\\desktop\\clienttwineproject\\clienttwineproject\\clienttwineproject\\intermediate\\build\\win64\\unrealeditor\\inc\\clienttwineproject\\uht\\platforminggamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

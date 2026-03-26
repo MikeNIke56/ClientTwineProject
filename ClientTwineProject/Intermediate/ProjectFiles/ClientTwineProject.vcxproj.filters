@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ClientTwineProject.uproject" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClientTwineProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ClientTwineProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\ClientTwineProject">
+      <UniqueIdentifier>{9DD9D32F-28C2-36EA-B5C4-7292D4EAC998}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ClientTwineProject\ClientTwineProject.Build.cs">
+      <Filter>Source\ClientTwineProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ClientTwineProject\ClientTwineProject.cpp">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\ClientTwineProject.h">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\ClientTwineProjectCharacter.cpp">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\ClientTwineProjectCharacter.h">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\ClientTwineProjectGameMode.cpp">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\ClientTwineProjectGameMode.h">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\ClientTwineProjectPlayerController.cpp">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\ClientTwineProjectPlayerController.h">
+      <Filter>Source\ClientTwineProject</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat">
+      <UniqueIdentifier>{7CF6BE17-6F7B-3882-99DB-20EA63175D2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat\AI">
+      <UniqueIdentifier>{24CB6470-72F0-3C22-A4C3-6370F4479406}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatAIController.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatAIController.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatEnemy.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatEnemy.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatEnemySpawner.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatEnemySpawner.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatStateTreeUtility.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\CombatStateTreeUtility.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\EnvQueryContext_Danger.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\EnvQueryContext_Danger.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\EnvQueryContext_Player.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\AI\EnvQueryContext_Player.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat\Animation">
+      <UniqueIdentifier>{67304394-0C1B-379E-AD11-85C33BEE0FFD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_CheckChargedAttack.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_CheckCombo.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_CheckCombo.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_DoAttackTrace.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Animation\AnimNotify_DoAttackTrace.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatCharacter.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatCharacter.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatGameMode.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatGameMode.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatPlayerController.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\CombatPlayerController.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat\Gameplay">
+      <UniqueIdentifier>{DA2FDD01-6882-3F28-AADA-4EA3FE3873C5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatActivationVolume.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatActivationVolume.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatCheckpointVolume.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatCheckpointVolume.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatDamageableBox.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatDamageableBox.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatDummy.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatDummy.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatLavaFloor.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Gameplay\CombatLavaFloor.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat\Interfaces">
+      <UniqueIdentifier>{2E461A41-03E3-3FBA-A60C-E5BC5CDA39F0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatActivatable.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatActivatable.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatAttacker.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatAttacker.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatDamageable.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\Interfaces\CombatDamageable.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\Interfaces</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Combat\UI">
+      <UniqueIdentifier>{EFD15847-F5FB-341E-BD7C-FE8488948E1D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Combat\UI\CombatLifeBar.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Combat\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Combat\UI\CombatLifeBar.h">
+      <Filter>Source\ClientTwineProject\Variant_Combat\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_Platforming">
+      <UniqueIdentifier>{DBD7DC3D-4AAB-3612-BCA0-651C52DEF676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ClientTwineProject\Variant_Platforming\Animation">
+      <UniqueIdentifier>{96DAA7B4-E3D5-3552-8A24-524132D0F5C8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Platforming\Animation\AnimNotify_EndDash.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Platforming\Animation</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Platforming\Animation\AnimNotify_EndDash.h">
+      <Filter>Source\ClientTwineProject\Variant_Platforming\Animation</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingCharacter.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingCharacter.h">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingGameMode.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingGameMode.h">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingPlayerController.cpp">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_Platforming\PlatformingPlayerController.h">
+      <Filter>Source\ClientTwineProject\Variant_Platforming</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_SideScrolling">
+      <UniqueIdentifier>{AB46DE78-745C-3966-A50F-1F80018AE858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ClientTwineProject\Variant_SideScrolling\AI">
+      <UniqueIdentifier>{68D1BD76-C24B-31F3-90E0-839EDBE5F279}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingAIController.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingAIController.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingNPC.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingNPC.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\AI\SideScrollingStateTreeUtility.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_SideScrolling\Gameplay">
+      <UniqueIdentifier>{FC114F60-2422-3601-AF0F-EEE874BCFAAB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingJumpPad.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingMovingPlatform.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingPickup.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingPickup.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Gameplay\SideScrollingSoftPlatform.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Gameplay</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_SideScrolling\Interfaces">
+      <UniqueIdentifier>{A82D9389-35F0-33A0-A7DC-D7A9FDFAB515}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Interfaces\SideScrollingInteractable.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Interfaces</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\Interfaces\SideScrollingInteractable.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\Interfaces</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingCameraManager.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingCameraManager.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingCharacter.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingCharacter.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingGameMode.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingGameMode.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingPlayerController.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\SideScrollingPlayerController.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling</Filter>
+    </ClInclude>
+    <Filter Include="Source\ClientTwineProject\Variant_SideScrolling\UI">
+      <UniqueIdentifier>{45645BC9-24DB-3295-8970-41936B62282A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\UI\SideScrollingUI.cpp">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ClientTwineProject\Variant_SideScrolling\UI\SideScrollingUI.h">
+      <Filter>Source\ClientTwineProject\Variant_SideScrolling\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
