@@ -1,6 +1,9 @@
-[38028:2776:0326/171624.841:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[38028:25580:0326/171625.491:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[38028:2776:0326/171625.653:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[39240:10108:0326/171658.659:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
-[38028:28464:0326/171707.961:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[38028:2776:0326/171805.568:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[19348:35496:0326/201639.358:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19348:15900:0326/201639.720:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19348:35496:0326/201639.857:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[3724:32564:0326/201649.677:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-643D2A49E4BCB697C60C8AC3C3E0B9AC will be ignored
+[19348:30456:0326/201656.942:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19348:35496:0326/201819.048:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[19348:30456:0326/230654.751:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[19348:30456:0326/230929.826:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[40404:2272:0326/235228.976:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 23
