@@ -179,15 +179,15 @@ ASideScrollingCameraManager::~ASideScrollingCameraManager() {}
 // ********** End Class ASideScrollingCameraManager ************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingCameraManager, ASideScrollingCameraManager::StaticClass, TEXT("ASideScrollingCameraManager"), &Z_Registration_Info_UClass_ASideScrollingCameraManager, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingCameraManager), 3933429969U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_1799715826{
+}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_1799715826{
 	TEXT("/Script/ClientTwineProject"),
-	Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_SideScrollingCameraManager_h__Script_ClientTwineProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

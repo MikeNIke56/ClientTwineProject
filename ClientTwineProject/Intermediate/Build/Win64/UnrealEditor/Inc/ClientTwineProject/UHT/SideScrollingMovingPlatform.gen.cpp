@@ -261,15 +261,15 @@ ASideScrollingMovingPlatform::~ASideScrollingMovingPlatform() {}
 // ********** End Class ASideScrollingMovingPlatform ***********************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ASideScrollingMovingPlatform, ASideScrollingMovingPlatform::StaticClass, TEXT("ASideScrollingMovingPlatform"), &Z_Registration_Info_UClass_ASideScrollingMovingPlatform, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ASideScrollingMovingPlatform), 3791723968U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_2534547508{
+}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_2534547508{
 	TEXT("/Script/ClientTwineProject"),
-	Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_SideScrolling_Gameplay_SideScrollingMovingPlatform_h__Script_ClientTwineProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

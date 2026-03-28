@@ -256,15 +256,15 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_NS(, UCombatAttacker);
 // ********** End Interface UCombatAttacker ********************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_UCombatAttacker, UCombatAttacker::StaticClass, TEXT("UCombatAttacker"), &Z_Registration_Info_UClass_UCombatAttacker, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(UCombatAttacker), 267651174U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_4090240452{
+}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_4090240452{
 	TEXT("/Script/ClientTwineProject"),
-	Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Interfaces_CombatAttacker_h__Script_ClientTwineProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

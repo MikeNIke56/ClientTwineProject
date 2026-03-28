@@ -7058,11 +7058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\17038\\Desktop\\ClientTwineProject\\ClientTwineProject\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
+      "projectUniqueName": "C:\\Users\\17038\\Desktop\\Chalet\\Chalet\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
       "projectName": "ClientTwineProjectModuleRules",
-      "projectPath": "C:\\Users\\17038\\Desktop\\ClientTwineProject\\ClientTwineProject\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
+      "projectPath": "C:\\Users\\17038\\Desktop\\Chalet\\Chalet\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
       "packagesPath": "C:\\Users\\17038\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\17038\\Desktop\\ClientTwineProject\\ClientTwineProject\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\obj\\",
+      "outputPath": "C:\\Users\\17038\\Desktop\\Chalet\\Chalet\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

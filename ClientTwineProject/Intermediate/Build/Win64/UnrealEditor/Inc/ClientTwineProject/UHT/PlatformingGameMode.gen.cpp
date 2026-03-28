@@ -109,15 +109,15 @@ APlatformingGameMode::~APlatformingGameMode() {}
 // ********** End Class APlatformingGameMode *******************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_APlatformingGameMode, APlatformingGameMode::StaticClass, TEXT("APlatformingGameMode"), &Z_Registration_Info_UClass_APlatformingGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(APlatformingGameMode), 2043171470U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_1147486765{
+}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_1147486765{
 	TEXT("/Script/ClientTwineProject"),
-	Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Platforming_PlatformingGameMode_h__Script_ClientTwineProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

@@ -233,15 +233,15 @@ ACombatCheckpointVolume::~ACombatCheckpointVolume() {}
 // ********** End Class ACombatCheckpointVolume ****************************************************
 
 // ********** Begin Registration *******************************************************************
-struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics
+struct Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
 		{ Z_Construct_UClass_ACombatCheckpointVolume, ACombatCheckpointVolume::StaticClass, TEXT("ACombatCheckpointVolume"), &Z_Registration_Info_UClass_ACombatCheckpointVolume, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ACombatCheckpointVolume), 3679787390U) },
 	};
-}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics 
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_1002621635{
+}; // Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics 
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_1002621635{
 	TEXT("/Script/ClientTwineProject"),
-	Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics::ClassInfo),
+	Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_Variant_Combat_Gameplay_CombatCheckpointVolume_h__Script_ClientTwineProject_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0,
 };

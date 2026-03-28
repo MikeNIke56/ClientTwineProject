@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GfLEhPm5oUw=",
+  "dgSpecHash": "F/8+C8Ycvb8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\17038\\Desktop\\ClientTwineProject\\ClientTwineProject\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\17038\\Desktop\\Chalet\\Chalet\\ClientTwineProject\\Intermediate\\Build\\BuildRulesProjects\\ClientTwineProjectModuleRules\\ClientTwineProjectModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\17038\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\17038\\.nuget\\packages\\blake3\\1.1.0\\blake3.1.1.0.nupkg.sha512",

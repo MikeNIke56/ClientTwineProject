@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClientTwineProjectModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8e9292efdbbc57b0e9f9b223b279c9b0867278b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c959ff9314d803c1a8552e044f998637661271e")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClientTwineProjectModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClientTwineProjectModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

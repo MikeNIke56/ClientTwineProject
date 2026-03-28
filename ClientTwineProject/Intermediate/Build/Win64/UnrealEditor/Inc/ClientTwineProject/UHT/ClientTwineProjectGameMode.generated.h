@@ -20,7 +20,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AClientTwineProjectGameMode_Statics;
 CLIENTTWINEPROJECT_API UClass* Z_Construct_UClass_AClientTwineProjectGameMode_NoRegister();
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_INCLASS_NO_PURE_DECLS \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAClientTwineProjectGameMode(); \
 	friend struct ::Z_Construct_UClass_AClientTwineProjectGameMode_Statics; \
@@ -31,7 +31,7 @@ public: \
 	DECLARE_SERIALIZER(AClientTwineProjectGameMode)
 
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_ENHANCED_CONSTRUCTORS \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AClientTwineProjectGameMode(AClientTwineProjectGameMode&&) = delete; \
 	AClientTwineProjectGameMode(const AClientTwineProjectGameMode&) = delete; \
@@ -41,12 +41,12 @@ public: \
 	NO_API virtual ~AClientTwineProjectGameMode();
 
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_12_PROLOG
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_GENERATED_BODY \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_12_PROLOG
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_INCLASS_NO_PURE_DECLS \
-	FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_ENHANCED_CONSTRUCTORS \
+	FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_INCLASS_NO_PURE_DECLS \
+	FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h_15_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,6 +56,6 @@ class AClientTwineProjectGameMode;
 // ********** End Class AClientTwineProjectGameMode ************************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h
+#define CURRENT_FILE_ID FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectGameMode_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

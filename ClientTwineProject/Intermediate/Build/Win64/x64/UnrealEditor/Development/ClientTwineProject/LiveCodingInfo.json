@@ -42,10 +42,10 @@
 			"SideScrollingMovingPlatform.gen.cpp.obj",
 			"SideScrollingNPC.gen.cpp.obj",
 			"SideScrollingPickup.gen.cpp.obj",
-			"SideScrollingPlayerController.gen.cpp.obj"
+			"SideScrollingPlayerController.gen.cpp.obj",
+			"SideScrollingSoftPlatform.gen.cpp.obj"
 		],
 		"Module.ClientTwineProject.3.cpp.obj": [
-			"SideScrollingSoftPlatform.gen.cpp.obj",
 			"SideScrollingStateTreeUtility.gen.cpp.obj",
 			"SideScrollingUI.gen.cpp.obj",
 			"PerModuleInline.gen.cpp.obj",

@@ -17,7 +17,7 @@
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 
 // ********** Begin Class AClientTwineProjectCharacter *********************************************
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execDoJumpEnd); \
 	DECLARE_FUNCTION(execDoJumpStart); \
 	DECLARE_FUNCTION(execDoLook); \
@@ -27,7 +27,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 struct Z_Construct_UClass_AClientTwineProjectCharacter_Statics;
 CLIENTTWINEPROJECT_API UClass* Z_Construct_UClass_AClientTwineProjectCharacter_NoRegister();
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesAClientTwineProjectCharacter(); \
 	friend struct ::Z_Construct_UClass_AClientTwineProjectCharacter_Statics; \
@@ -38,7 +38,7 @@ public: \
 	DECLARE_SERIALIZER(AClientTwineProjectCharacter)
 
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
 	/** Deleted move- and copy-constructors, should never be used */ \
 	AClientTwineProjectCharacter(AClientTwineProjectCharacter&&) = delete; \
 	AClientTwineProjectCharacter(const AClientTwineProjectCharacter&) = delete; \
@@ -48,13 +48,13 @@ public: \
 	NO_API virtual ~AClientTwineProjectCharacter();
 
 
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_21_PROLOG
-#define FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_GENERATED_BODY \
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_21_PROLOG
+#define FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
-	FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
+	FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_INCLASS_NO_PURE_DECLS \
+	FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h_24_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -64,6 +64,6 @@ class AClientTwineProjectCharacter;
 // ********** End Class AClientTwineProjectCharacter ***********************************************
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_17038_Desktop_ClientTwineProject_ClientTwineProject_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h
+#define CURRENT_FILE_ID FID_Users_17038_Desktop_Chalet_Chalet_ClientTwineProject_Source_ClientTwineProject_ClientTwineProjectCharacter_h
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
